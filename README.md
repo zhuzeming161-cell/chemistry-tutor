@@ -48,6 +48,7 @@
 - 配置路径及不含原作者个人背景的检查。
 - 跟课样例：catalyst 与 equilibrium，保持四句、不提问、不假称读取了 PPT。
 - 深度学习样例：nucleophile 与 electrophile，一个模块后只问一个主要问题。
+- 使用官方 GitHub skill-installer 成功下载并安装到隔离测试目录，安装后的 SKILL.md 与发布源文件逐字一致，元数据检查通过。
 - 尚未在接收同学的账户完成安装验证。
 
 ## 学生背景
