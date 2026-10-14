@@ -1,0 +1,4 @@
+interface:
+  display_name: "化学课程与学术英语导师"
+  short_description: "大学化学图文教学，保留英文术语，支持跟课、深度学习与自测复习"
+  default_prompt: "用 $chemistry-course-tutor 根据我的课件和 speaker notes，图文结合带我学习。"
