@@ -1,0 +1,20 @@
+{
+  "name": "chemistry-learning",
+  "interface": {
+    "displayName": "Chemistry Learning"
+  },
+  "plugins": [
+    {
+      "name": "chemistry-tutor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/chemistry-tutor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
