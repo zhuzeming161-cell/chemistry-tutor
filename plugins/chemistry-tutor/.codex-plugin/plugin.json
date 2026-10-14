@@ -1,13 +1,15 @@
 {
   "name": "chemistry-tutor",
-  "version": "1.0.0",
-  "description": "大学化学图文深度教学与课程英语支持",
+  "version": "1.1.0",
+  "description": "大学化学图文教学与学术英语支持",
   "skills": "./skills/",
   "interface": {
     "displayName": "化学课程与学术英语导师",
-    "shortDescription": "原图与备注、中文机制、英文术语、互动学习",
+    "shortDescription": "跟课、预习、深度学习、提取复习与自测卡",
     "defaultPrompt": [
-      "根据我的化学课件和 speaker notes，图文结合带我学习。"
+      "根据我的化学课件和 speaker notes，图文结合带我学习。",
+      "我正在跟课，用三到五句帮我理解当前概念。",
+      "帮我复习，先用几个问题检查，再针对薄弱点讲解。"
     ]
   }
 }
